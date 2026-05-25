@@ -112,7 +112,7 @@ The process is visible intentionally.
 | STABLE | Internally validated |
 | ACTIVE | Approved for publication |
 | CANON | Locked continuity artifact |
-| DEPRECATED | Archived but preserved |
+| DEPRECIATED| Archived but preserved |
 | LEGACY | Historical reference state |
 
 ---
